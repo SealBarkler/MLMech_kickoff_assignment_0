@@ -1,5 +1,5 @@
 # %%
-import MLMech_kickoff.assignment_0 as assignment_0
+import assignment_0
 
 def test_sum():
     assert assignment_0.get_sum(1, 2) == 3
