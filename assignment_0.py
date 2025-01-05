@@ -79,24 +79,6 @@ def get_power(a, b):
 
 ####### strings #######
 # %%
-# write a function that adds a variable folder name to the path string 'C:\users\newbie\Documents'
-def get_path(folder_name):
-    '''
-    returns raw string
-    '''
-    def get_concatenated_string(string1, string2):
-        
-        # TODO: YOUR CODE HERE
-
-        return result
-
-    # TODO: YOUR CODE HERE
-
-    result = get_concatenated_string(path, folder_name)
-
-    return result
-
-# %%
 # write a function that removes all blanks, line breaks,... around a word in a string
 def get_rid_of_whitespace(string):
     '''
