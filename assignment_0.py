@@ -187,26 +187,3 @@ def get_last_two_parts_concatenated_after_split(string, symbol):
     # TODO: YOUR CODE HERE
 
     return result
-
-# %%
-# write a function that appends an element to a list
-def get_list_with_appended_element(list, element):
-    '''
-    returns a list to whom an element is appended
-    '''
-
-    # TODO: YOUR CODE HERE
-
-    return result
-
-# %%
-# write a function that returns the length of a list
-def get_length_of_list(list):
-    '''
-    returns the length of a list
-    '''
-    
-    # TODO: YOUR CODE HERE
-
-    return result
-
